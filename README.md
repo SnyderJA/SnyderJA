@@ -18,7 +18,7 @@ Most of my work here is hands on: real apps, real code, and the honest lessons f
 ### About Me
 
 - 🎯 **Senior Manager of Product** at Home City Ice, leading a team of product managers on a .NET / React / SQL Server stack
-- 🧠 ~20 years in product management across enterprise software, AR and billing systems, and program delivery
+- 🧠 ~20 years in technology across enterprise software, AR and billing systems, and program delivery
 - 🤝 Mentor at heart: I write and record for up and coming PMs who want the skills nobody teaches, like earning trust and building relationships
 - 🚐 RVer, guitar player, Tucson based
 
